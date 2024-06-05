@@ -1,0 +1,6 @@
+// const orange = '<div class = "candy" id="orange"><img src="./images/orange_candy.png" height="70" width="70"/></div>'
+// const red = '<div class = "candy" id="red"><img src="./images/red_candy.png" height="70" width="70"></div>'
+// const green = '<div class = "candy" id="green"><img src="./images/green_candy.png" height="70" width="70"></div>'
+// const purple = '<div class = "candy" id="purple"><img src="./images/purple_candy.png" height="70" width="70"></div>'
+// const yellow = '<div class = "candy" id="yellow"><img src="./images/yellow_candy.png" height="70" width="70"></div>'
+// const blue = '<div class = "candy" id="blue"><img src="./images/blue_candy.png" height="70" width="70"></div>'
